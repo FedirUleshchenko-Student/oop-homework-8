@@ -32,6 +32,8 @@
 /Solid_4/bin
 /Solid_4/Properties
 
+/FormsTests
+
 # 5.	Un-ignore this file itself so it can be committed
 !/.gitignore
 
